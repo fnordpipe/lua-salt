@@ -2,7 +2,7 @@
 
 ## install
 
-    luarocks install salt
+    luarocks install lua-salt
 
 ## usage
 
