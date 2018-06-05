@@ -1,13 +1,18 @@
-# lua-salt
+# Moved to GitLab
 
-## install
+Due to the recent circumstances where GitHub has been acquired by Microsoft, 
+I have decided to leave this place. There can't be any better time to move 
+to an open-source project (at least one where most parts are) rather than 
+staying and by that supporting Microsoft to build up yet another monopoly 
+based on a closed-source software.
 
-    luarocks install lua-salt
+**This repository is now hosted on [GitLab](https://gitlab.com/fnordpipe)**
 
-## usage
+We already live in a world almost exclusively controlled by closed software.
+I hope as many people as possible will follow, in order to build up a 
+new open-source standard of git hosting. I believe that all developers 
+(especially open-source developers) should understand this point of view.
 
-    % > lua
-    Lua 5.1.5  Copyright (C) 1994-2012 Lua.org, PUC-Rio
-    > salt = require('salt')
-    > print(salt:gen(8))
-    POT3CfKg
+I highly appreciate anyone who takes the opportunity and does the same.
+
+See you on GitLab
